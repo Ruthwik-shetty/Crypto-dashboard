@@ -20,7 +20,7 @@ const App = () => (
 			label: 'Lucy (101)',
 		}}
 		style={{
-			width: 120,
+			width: 80,
 		}}
 		onChange={handleChange}
 	>

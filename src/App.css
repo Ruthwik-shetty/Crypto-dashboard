@@ -16,10 +16,11 @@
   display: flex;
   padding-right: 2em;
   flex-direction: column;
-  flex-grow: 2;
+  flex-grow: 3;
 }
 .right-pane{
  flex-grow: 1;
+ 
 }
 
 .top-bar{
@@ -37,9 +38,11 @@
 }
 .CurrencyDropdown {
   flex-grow: 1;
+  min-width: 1em;
 }
 .search-bar{
   flex-grow: 3;
+  
 }
 .chart{
   flex-grow: 4;

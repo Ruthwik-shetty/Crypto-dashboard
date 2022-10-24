@@ -5,7 +5,7 @@ import { TopBar } from './TopBar'
 
 export const LeftPane = ({}) => {
 	return (
-		<div>
+		<div className='left-pane'>
 			<TopBar />
 			<Chart />
 			<div className='bottom-section'>

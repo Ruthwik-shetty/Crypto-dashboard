@@ -35,13 +35,14 @@
   padding: 1em;
   margin: 1em;
 }
-.drop-down{
-
-}
-.search-bar{
+.CurrencyDropdown {
   flex-grow: 1;
 }
+.search-bar{
+  flex-grow: 3;
+}
 .chart{
+  flex-grow: 4;
 
 }
 .portfolio{
@@ -52,3 +53,4 @@
 
   flex-grow: 1;
 }
+
